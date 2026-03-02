@@ -97,7 +97,7 @@ The project focuses on clean UI design, structured layouts using Flexbox, and re
 ---
 
 ## 📂 Project Structure
-
+```
 puma-7-store/
 │
 ├── index.html
@@ -108,6 +108,7 @@ puma-7-store/
 ├── style.css
 │
 └── images/
+```
 
 ---
 
